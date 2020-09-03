@@ -4,9 +4,7 @@
   "description": "practise materialize framework",
   "main": "index.js",
   "scripts": {
-    "dev": "live-server",
-    "build": "parcel build index.html",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "build": "parcel build index.html"
   },
   "repository": {
     "type": "git",
