@@ -1,0 +1,23 @@
+{
+  "name": "materialize.01",
+  "version": "1.0.0",
+  "description": "practise materialize framework",
+  "main": "index.js",
+  "scripts": {
+    "dev": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/faridaalin/materialize-css-exercise.git"
+  },
+  "author": "Farida",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/faridaalin/materialize-css-exercise/issues"
+  },
+  "homepage": "https://github.com/faridaalin/materialize-css-exercise#readme",
+  "dependencies": {
+    "materialize-css": "^1.0.0-rc.2"
+  }
+}
